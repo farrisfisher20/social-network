@@ -15,7 +15,7 @@
         "axios": "^0.18.1",
         "babel-cli": "^6.18.0",
         "babel-core": "^6.20.0",
-        "babel-loader": "^6.2.9",
+        "babel-loader": "^9.1.0",
         "babel-plugin-transform-async-to-generator": "^6.24.1",
         "babel-plugin-transform-object-rest-spread": "^6.26.0",
         "babel-polyfill": "^6.26.0",
@@ -44,7 +44,7 @@
         "socket.io": "^2.1.1",
         "spiced-pg": "^1.0.0",
         "uid-safe": "^2.1.4",
-        "webpack": "^1.14.0",
+        "webpack": "^5.74.0",
         "webpack-dev-middleware": "^1.8.4"
     },
     "keywords": [],
